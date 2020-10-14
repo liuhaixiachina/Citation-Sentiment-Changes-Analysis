@@ -1,0 +1,2 @@
+column 'time': citation occurrence;  
+column 'ratio': positive citation counts / total number of citation counts
